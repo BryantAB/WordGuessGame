@@ -1,0 +1,21 @@
+h1 {
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+text-decoration: underline;
+text-align: center;
+font-size: 35px
+}
+
+p {
+color: blue
+}
+
+body {
+background-color: coral;
+}
+
+img { 
+	max-width: 100%;{ 
+	width: 25px;
+	height: 25px;
+	}
